@@ -12,11 +12,11 @@
 
 ### About Me
 
-Hey, I'm **Tahia** 👋 — a full-stack developer based in Dhaka.
+Hey, I'm **Tahia Mubin** 👋 — a full-stack developer based in Sylhet, Bangladesh.
 
 - 🔭 Right now I'm building with **Next.js**, **React**, and **Node/Express**
 - 🗃️ **MongoDB** is my go-to for data modeling
-- 🧠 I care about clean, readable code over clever code
+- 🧠 Currently I'm learning Typescript
 - 📬 Reach out any time — details below
 
 <br />
@@ -30,6 +30,9 @@ Hey, I'm **Tahia** 👋 — a full-stack developer based in Dhaka.
   <a href="mailto:tahia.mubin1@gmail.com">
     <img src="https://img.shields.io/badge/Email-tahia.mubin1%40gmail.com-7C5CFC?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://github.com/tahiamubin" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-tahiamubin-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
 </p>
 
 <br />
