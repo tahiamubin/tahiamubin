@@ -22,9 +22,9 @@ I'm a full-stack developer based in Dhaka, focused on building clean, scalable w
 ### Current Activities
 
 - 🔭 Exploring advanced patterns in **Next.js**
-- 🌍 Working on a **tourism website** project
-- 🎓 2nd year, 2nd semester — B.Sc. in Computer Science (CGPA: 3.73)
-- 🤝 Open to collaborating on full-stack projects
+- 🌍 Learning Typescript
+- 🎓 2nd year, 2nd semester — B.Sc. in Computer Science 
+
 
 <br />
 
