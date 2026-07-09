@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/tahiamubin">
-  <img src="./assets/banner.png" alt="Tahia Mubin banner" width="100%" />
+ <img src="./banner.png" alt="Tahia Mubin banner" width="100%" />
 </a>
 
 # Hi 👋, I'm Tahia Mubin
