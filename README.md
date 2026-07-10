@@ -76,10 +76,9 @@ CGPA: 3.73
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7C5CFC&height=3&section=header&animation=fadeIn" />
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tahiamubin&theme=dracula" alt="Most Used Languages" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tahiamubin&theme=dracula" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahiamubin&hide_border=true&bg_color=0D1117&title_color=7C5CFC&text_color=E0D4FF&icon_color=B69CFF" alt="Most Used Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=tahiamubin&background=0D1117&border=7C5CFC&ring=7C5CFC&fire=B69CFF&currStreakLabel=7C5CFC&currStreakNum=E0D4FF&sideLabels=B69CFF&sideNums=E0D4FF&dates=8B8B9E" alt="GitHub Streak Stats" width="48%" />
 </p>
-
 ### 📈 Contribution Graph
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tahiamubin&bg_color=0d1117&color=E0D4FF&line=7C5CFC&point=B69CFF&area=true&area_color=7C5CFC&title_color=7C5CFC&hide_border=true&custom_title=Tahia%20Mubin's%20Contribution%20Graph" alt="contribution graph" />
