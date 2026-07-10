@@ -71,21 +71,17 @@ CGPA: 3.73
 
 ### Activity Snapshot
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tahiamubin/tahiamubin/output/github-contribution-grid-snake.svg" alt="contribution snake" />
-</p>
+### 📊 GitHub Stats
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7C5CFC&height=3&section=header&animation=fadeIn" />
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tahiamubin&theme=dracula" alt="Most Used Languages" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tahiamubin&theme=dracula" alt="GitHub Stats" width="48%" />
 </p>
-<br />
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tahiamubin&label=Visitors&color=7c5cfc&style=flat-square" alt="visitor count" />
-</div>
 
-<br />
+### 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tahiamubin&label=Visitors&color=7c5cfc&style=flat-square" alt="visitor count" />
-</div>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tahiamubin&bg_color=0d1117&color=E0D4FF&line=7C5CFC&point=B69CFF&area=true&area_color=7C5CFC&title_color=7C5CFC&hide_border=true&custom_title=Tahia%20Mubin's%20Contribution%20Graph" alt="contribution graph" />
+
+
