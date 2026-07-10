@@ -76,13 +76,13 @@ CGPA: 3.73
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahiamubin&theme=graywhite&hide_border=true&hide_title=true" alt="stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahiamubin&theme=graywhite&hide_border=true&layout=compact&hide_title=true" alt="top langs" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tahiamubin&theme=dracula" alt="Most Used Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tahiamubin&theme=dracula" alt="GitHub Stats" width="48%" />
 </p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=tahiamubin&theme=default&hide_border=true" alt="streak stats" />
-</p>
+<br />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tahiamubin&label=Visitors&color=7c5cfc&style=flat-square" alt="visitor count" />
+</div>
 
 <br />
 
