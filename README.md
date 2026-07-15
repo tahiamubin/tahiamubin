@@ -21,9 +21,10 @@ I'm a full-stack developer based in Dhaka, focused on building clean, scalable w
 
 ### Current Activities
 
-- 🔭 Exploring advanced patterns in **Next.js**
-- 🌍 Learning Typescript
-- 🎓 2nd year, 2nd semester — B.Sc. in Computer Science 
+- Current location - Sylhet, Bnagladesh
+- Exploring advanced patterns in **Next.js**
+- Learning Typescript
+- 2nd year, 2nd semester — B.Sc. in Computer Science 
 
 
 <br />
