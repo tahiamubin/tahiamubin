@@ -15,7 +15,7 @@
 
 ### About Me
 
-I'm a full-stack developer based in Dhaka, focused on building clean, scalable web applications with the Next.js, Express, and MongoDB stack. I enjoy turning ideas into real, working products and paying close attention to both code quality and user experience. Outside of personal projects, I'm currently completing my undergraduate degree in Computer Science.
+I'm a full-stack developer based in Sylhet,Bangladesh, focused on building clean, scalable web applications with the Next.js, Express, and MongoDB stack. I enjoy turning ideas into real, working products and paying close attention to both code quality and user experience. Outside of personal projects, I'm currently completing my undergraduate degree in Computer Science.
 
 <br />
 
