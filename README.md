@@ -1,87 +1,84 @@
 <div align="center">
 
-<a href="https://github.com/tahiamubin">
-  <img src="./banner.png" alt="Tahia Mubin banner" width="100%" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=120&section=header&text=CODE%20TODAY,%20GROWTH%20TOMORROW&fontSize=32&fontColor=A6FF00&fontAlign=50&fontAlignY=55&desc=Consistency%20is%20the%20bridge%20between%20ideas%20and%20impact.&descAlignY=80&descSize=14&descColor=E8FFB0" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1400&color=7C5CFC&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;I+build+with+Next.js%2C+Express+%26+MongoDB;Clean+code%2C+clean+UI%2C+no+shortcuts." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1400&color=A6FF00&background=0D0D0D00&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;I+build+with+Next.js%2C+Express+%26+MongoDB;Clean+code%2C+clean+UI%2C+no+shortcuts." alt="Typing SVG" />
 
-# Tahia Mubin
-### Full Stack Developer
+# TAHIA MUBIN
+### `FULL STACK DEVELOPER`
 
 </div>
 
-<br />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=A6FF00&height=2&section=header" />
 
-### About Me
+## 🖥️ ABOUT ME
 
-I'm a full-stack developer based in Sylhet,Bangladesh, focused on building clean, scalable web applications with the Next.js, Express, and MongoDB stack. I enjoy turning ideas into real, working products and paying close attention to both code quality and user experience. Outside of personal projects, I'm currently completing my undergraduate degree in Computer Science.
+I'm a full-stack developer based in **Sylhet, Bangladesh**, focused on building clean, scalable web applications with the **Next.js, Express, and MongoDB** stack. I enjoy turning ideas into real, working products and paying close attention to both code quality and user experience. Outside of personal projects, I'm currently completing my undergraduate degree in Computer Science.
 
-<br />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1A1A1A&height=2&section=header" />
 
-### Current Activities
+## ⚡ CURRENT ACTIVITIES
 
-- Current location - Sylhet, Bnagladesh
-- Exploring advanced patterns in **Next.js**
-- Learning Typescript
-- 2nd year, 2nd semester — B.Sc. in Computer Science 
+<table>
+<tr><td>📍</td><td><b>LOCATION</b></td><td>Sylhet, Bangladesh</td></tr>
+<tr><td>🧭</td><td><b>EXPLORING</b></td><td>Advanced patterns in Next.js</td></tr>
+<tr><td>📘</td><td><b>LEARNING</b></td><td>TypeScript</td></tr>
+<tr><td>🎓</td><td><b>STUDYING</b></td><td>B.Sc. in CS — 2nd Year, 2nd Semester</td></tr>
+</table>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1A1A1A&height=2&section=header" />
 
-<br />
-
-### Education
+## 🎓 EDUCATION
 
 **B.Sc. in Computer Science** — 2nd Year, 2nd Semester (Ongoing)
-CGPA: 3.73
-
 <br />
+**CGPA:** <img src="https://img.shields.io/badge/3.73-A6FF00?style=flat-square&labelColor=0D0D0D" />
 
-### Languages
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1A1A1A&height=2&section=header" />
+
+## 🗣️ LANGUAGES
 
 🇧🇩 Bangla &nbsp;•&nbsp; 🇬🇧 English
 
-<br />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1A1A1A&height=2&section=header" />
 
-### Where to Find Me
+## 📡 WHERE TO FIND ME
 
 <p align="left">
   <a href="https://github.com/tahiamubin" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-tahiamubin-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-tahiamubin-0D0D0D?style=for-the-badge&logo=github&logoColor=A6FF00" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/tahia-mubin-736bb53b4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Tahia%20Mubin-7C5CFC?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Tahia%20Mubin-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=A6FF00" alt="LinkedIn" />
   </a>
   <a href="mailto:tahia.mubin1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tahia.mubin1%40gmail.com-7C5CFC?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-tahia.mubin1%40gmail.com-0D0D0D?style=for-the-badge&logo=gmail&logoColor=A6FF00" alt="Email" />
   </a>
 </p>
 
-<br />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1A1A1A&height=2&section=header" />
 
-### What I Work With
+## 🛠️ WHAT I WORK WITH
 
 | Category | Stack |
 |---|---|
-| Languages | ![JS](https://skillicons.dev/icons?i=js) ![TS](https://skillicons.dev/icons?i=ts) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) |
-| Frontend | ![React](https://skillicons.dev/icons?i=react) ![Next](https://skillicons.dev/icons?i=nextjs) ![Redux](https://skillicons.dev/icons?i=redux) ![Tailwind](https://skillicons.dev/icons?i=tailwind) |
-| Backend | ![Node](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) |
-| Database | ![Mongo](https://skillicons.dev/icons?i=mongodb) ![Mongoose](https://skillicons.dev/icons?i=mongoose) |
-| Tooling | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman) |
+| **Languages** | ![JS](https://skillicons.dev/icons?i=js) ![TS](https://skillicons.dev/icons?i=ts) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) |
+| **Frontend** | ![React](https://skillicons.dev/icons?i=react) ![Next](https://skillicons.dev/icons?i=nextjs) ![Redux](https://skillicons.dev/icons?i=redux) ![Tailwind](https://skillicons.dev/icons?i=tailwind) |
+| **Backend** | ![Node](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) |
+| **Database** | ![Mongo](https://skillicons.dev/icons?i=mongodb) ![Mongoose](https://skillicons.dev/icons?i=mongoose) |
+| **Tooling** | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman) |
 
-<br />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=A6FF00&height=2&section=header" />
 
-### Activity Snapshot
-
-### 📊 GitHub Stats
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7C5CFC&height=3&section=header&animation=fadeIn" />
+## 📊 ACTIVITY SNAPSHOT
 
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tahiamubin&hide_border=true&bg_color=0D1117&title_color=7C5CFC&text_color=E0D4FF&icon_color=B69CFF" alt="Most Used Languages" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=tahiamubin&background=0D1117&border=7C5CFC&ring=7C5CFC&fire=B69CFF&currStreakLabel=7C5CFC&currStreakNum=E0D4FF&sideLabels=B69CFF&sideNums=E0D4FF&dates=8B8B9E" alt="GitHub Streak Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tahiamubin&hide_border=true&bg_color=0D0D0D&title_color=A6FF00&text_color=E8FFB0&icon_color=A6FF00" alt="Most Used Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=tahiamubin&background=0D0D0D&border=A6FF00&ring=A6FF00&fire=A6FF00&currStreakLabel=A6FF00&currStreakNum=E8FFB0&sideLabels=A6FF00&sideNums=E8FFB0&dates=8B8B9E" alt="GitHub Streak Stats" width="48%" />
 </p>
 
-### 📈 Contribution Graph
+### 📈 CONTRIBUTION GRAPH
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tahiamubin&bg_color=0d1117&color=E0D4FF&line=7C5CFC&point=B69CFF&area=true&area_color=7C5CFC&title_color=7C5CFC&hide_border=true&custom_title=Tahia%20Mubin's%20Contribution%20Graph" alt="contribution graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tahiamubin&bg_color=0D0D0D&color=A6FF00&line=A6FF00&point=E8FFB0&area=true&area_color=A6FF00&title_color=A6FF00&hide_border=true&custom_title=Tahia%20Mubin's%20Contribution%20Graph" alt="contribution graph" width="100%" />
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=60&section=footer&text=CONSISTENCY%20BEATS%20MOTIVATION&fontSize=13&fontColor=A6FF00&fontAlign=50" />
