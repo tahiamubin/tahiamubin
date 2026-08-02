@@ -1,64 +1,67 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=120&section=header&text=CODE%20TODAY,%20GROWTH%20TOMORROW&fontSize=32&fontColor=A6FF00&fontAlign=50&fontAlignY=55&desc=Consistency%20is%20the%20bridge%20between%20ideas%20and%20impact.&descAlignY=80&descSize=14&descColor=E8FFB0" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=39FF14&height=140&section=header&text=TAHIA%20MUBIN&fontSize=48&fontColor=39FF14&fontAlign=50&fontAlignY=45&desc=FULL%20STACK%20DEVELOPER%20//%20NEXT.JS%20%E2%80%A2%20EXPRESS%20%E2%80%A2%20MONGODB&descAlign=50&descAlignY=68&descSize=14&descColor=B6FFB0&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1400&color=A6FF00&background=0D0D0D00&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;I+build+with+Next.js%2C+Express+%26+MongoDB;Clean+code%2C+clean+UI%2C+no+shortcuts." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=39FF14&background=00000000&center=true&vCenter=true&width=600&lines=%3E+building+clean%2C+scalable+web+apps;%3E+stack%3A+Next.js+%2B+Express+%2B+MongoDB;%3E+status%3A+shipping" alt="Typing SVG" />
 
-# TAHIA MUBIN
-### `FULL STACK DEVELOPER`
+<br />
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-39FF14?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/LOCATION-SYLHET%2C%20BD-39FF14?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/STATUS-BUILDING-39FF14?style=for-the-badge&labelColor=000000" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=A6FF00&height=2&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=2&section=header" />
 
-## 🖥️ ABOUT ME
+## `[ ABOUT ]`
 
 I'm a full-stack developer based in **Sylhet, Bangladesh**, focused on building clean, scalable web applications with the **Next.js, Express, and MongoDB** stack. I enjoy turning ideas into real, working products and paying close attention to both code quality and user experience. Outside of personal projects, I'm currently completing my undergraduate degree in Computer Science.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1A1A1A&height=2&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D2B0D&height=2&section=header" />
 
-## ⚡ CURRENT ACTIVITIES
+## `[ CURRENT ACTIVITIES ]`
 
 <table>
-<tr><td>📍</td><td><b>LOCATION</b></td><td>Sylhet, Bangladesh</td></tr>
-<tr><td>🧭</td><td><b>EXPLORING</b></td><td>Advanced patterns in Next.js</td></tr>
-<tr><td>📘</td><td><b>LEARNING</b></td><td>TypeScript</td></tr>
-<tr><td>🎓</td><td><b>STUDYING</b></td><td>B.Sc. in CS — 2nd Year, 2nd Semester</td></tr>
+<tr><td>📍</td><td><code>LOCATION</code></td><td>Sylhet, Bangladesh</td></tr>
+<tr><td>🧭</td><td><code>EXPLORING</code></td><td>Advanced patterns in Next.js</td></tr>
+<tr><td>📘</td><td><code>LEARNING</code></td><td>TypeScript</td></tr>
+<tr><td>🎓</td><td><code>STUDYING</code></td><td>B.Sc. in CS — 2nd Year, 2nd Semester</td></tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1A1A1A&height=2&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D2B0D&height=2&section=header" />
 
-## 🎓 EDUCATION
+## `[ EDUCATION ]`
 
 **B.Sc. in Computer Science** — 2nd Year, 2nd Semester (Ongoing)
-<br />
-**CGPA:** <img src="https://img.shields.io/badge/3.73-A6FF00?style=flat-square&labelColor=0D0D0D" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1A1A1A&height=2&section=header" />
+<img src="https://img.shields.io/badge/CGPA-3.73-39FF14?style=for-the-badge&labelColor=000000" />
 
-## 🗣️ LANGUAGES
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D2B0D&height=2&section=header" />
+
+## `[ LANGUAGES ]`
 
 🇧🇩 Bangla &nbsp;•&nbsp; 🇬🇧 English
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1A1A1A&height=2&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D2B0D&height=2&section=header" />
 
-## 📡 WHERE TO FIND ME
+## `[ CONNECT ]`
 
 <p align="left">
   <a href="https://github.com/tahiamubin" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-tahiamubin-0D0D0D?style=for-the-badge&logo=github&logoColor=A6FF00" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-tahiamubin-000000?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/tahia-mubin-736bb53b4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Tahia%20Mubin-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=A6FF00" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Tahia%20Mubin-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" alt="LinkedIn" />
   </a>
   <a href="mailto:tahia.mubin1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tahia.mubin1%40gmail.com-0D0D0D?style=for-the-badge&logo=gmail&logoColor=A6FF00" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-tahia.mubin1%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Email" />
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1A1A1A&height=2&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=2&section=header" />
 
-## 🛠️ WHAT I WORK WITH
+## `[ TECH STACK ]`
 
 | Category | Stack |
 |---|---|
@@ -68,17 +71,25 @@ I'm a full-stack developer based in **Sylhet, Bangladesh**, focused on building 
 | **Database** | ![Mongo](https://skillicons.dev/icons?i=mongodb) ![Mongoose](https://skillicons.dev/icons?i=mongoose) |
 | **Tooling** | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman) |
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=A6FF00&height=2&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=2&section=header" />
 
-## 📊 ACTIVITY SNAPSHOT
+## `[ ACTIVITY SNAPSHOT ]`
 
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tahiamubin&hide_border=true&bg_color=0D0D0D&title_color=A6FF00&text_color=E8FFB0&icon_color=A6FF00" alt="Most Used Languages" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=tahiamubin&background=0D0D0D&border=A6FF00&ring=A6FF00&fire=A6FF00&currStreakLabel=A6FF00&currStreakNum=E8FFB0&sideLabels=A6FF00&sideNums=E8FFB0&dates=8B8B9E" alt="GitHub Streak Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tahiamubin&hide_border=true&bg_color=000000&title_color=39FF14&text_color=B6FFB0&icon_color=39FF14" alt="Most Used Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=tahiamubin&background=000000&border=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&currStreakNum=B6FFB0&sideLabels=39FF14&sideNums=B6FFB0&dates=6FA36F" alt="GitHub Streak Stats" width="48%" />
 </p>
 
-### 📈 CONTRIBUTION GRAPH
+### `> CONTRIBUTION GRAPH`
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tahiamubin&bg_color=0D0D0D&color=A6FF00&line=A6FF00&point=E8FFB0&area=true&area_color=A6FF00&title_color=A6FF00&hide_border=true&custom_title=Tahia%20Mubin's%20Contribution%20Graph" alt="contribution graph" width="100%" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tahiamubin&bg_color=000000&color=39FF14&line=39FF14&point=B6FFB0&area=true&area_color=39FF14&title_color=39FF14&hide_border=true&custom_title=Tahia%20Mubin's%20Contribution%20Graph" alt="contribution graph" width="100%" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=60&section=footer&text=CONSISTENCY%20BEATS%20MOTIVATION&fontSize=13&fontColor=A6FF00&fontAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D2B0D&height=2&section=header" />
+
+<div align="center">
+
+*"The weak write code. The strong ship it. The elite maintain it."*
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=39FF14&height=60&section=footer&text=EVOLUTION%20PROGRESS%3A%20100%25&fontSize=14&fontColor=39FF14&fontAlign=50" />
+
+</div>
