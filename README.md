@@ -16,7 +16,7 @@
 
 ## `[ ABOUT ]`
 
-I'm a full-stack developer based in **Sylhet, Bangladesh**, focused on building clean, scalable web applications with the **Next.js, Express, and MongoDB** stack. I enjoy turning ideas into real, working products and paying close attention to both code quality and user experience. Outside of personal projects, I'm currently completing my undergraduate degree in Computer Science.
+I'm a Frontend developer based in **Sylhet, Bangladesh**, focused on building clean, scalable web applications with the **Next.js, Express, and MongoDB** stack. I enjoy turning ideas into real, working products and paying close attention to both code quality and user experience. Outside of personal projects, I'm currently completing my undergraduate degree in Computer Science.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=13111C&height=2&section=header" />
 
