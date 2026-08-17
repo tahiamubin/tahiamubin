@@ -73,12 +73,7 @@ I'm a Frontend developer based in **Sylhet, Bangladesh**, focused on building cl
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&section=header" />
 
-## `[ ACTIVITY SNAPSHOT ]`
 
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tahiamubin&hide_border=true&bg_color=0D0D17&title_color=8B5CF6&text_color=C4B5FD&icon_color=8B5CF6" alt="Most Used Languages" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=tahiamubin&background=0D0D17&border=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&currStreakNum=C4B5FD&sideLabels=8B5CF6&sideNums=C4B5FD&dates=A78BFA" alt="GitHub Streak Stats" width="48%" />
-</p>
 
 ### `> CONTRIBUTION GRAPH`
 
