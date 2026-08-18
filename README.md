@@ -83,14 +83,14 @@ I'm a Frontend developer based in **Sylhet, Bangladesh**, focused on building cl
 
 ### `> CONTRIBUTION GRAPH`
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tahiamubin&bg_color=0D0D17&color=8B5CF6&line=8B5CF6&point=C4B5FD&area=true&area_color=8B5CF6&title_color=8B5CF6&hide_border=true&custom_title=Tahia%20Mubin's%20Contribution%20Graph" alt="contribution graph" width="100%" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tahiamubin&bg_color=0D0D17&color=8B5CF6&line=8B5CF6&point=C4B5FD&area=true&area_color=8B5CF6&title_color=8B5CF6&hide_border=true&custom_title=Tahia%20Mubin's%20Contribution%20Graph" alt="contribution graph" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=13111C&height=2&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=13111C&height=2&section=header" alt="divider" />
 
 <div align="center">
 
 *"The weak write code. The strong ship it. The elite maintain it."*
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=8B5CF6&height=60&section=footer&text=EVOLUTION%20PROGRESS%3A%20100%25&fontSize=14&fontColor=8B5CF6&fontAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=8B5CF6&height=60&section=footer&text=EVOLUTION%20PROGRESS%3A%20100%25&fontSize=14&fontColor=8B5CF6&fontAlign=50" alt="evolution progress footer" />
 
 </div>
